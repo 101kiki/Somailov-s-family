@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+}
+
+header {
+    background-color:#0776A0 ;
+    width: 959px;
+    height: 101px;
+}
+
+header img{
+    position: absolute;
+    margin: 20px 839px 21px 15px;
+}
+a{
+    text-decoration: none;
+    border: 1px solid #FFBC00;
+    border-radius: 10px;
+    color: black;
+    background-color: #FF8966;
+    padding: 2px 5px 2px 5px ;
+    font-size: 36px;
+    position: absolute;
+
+    adding: 0px 5px 0px 5px;
+    margin: 40px 689px 21px 135px;
+}
+footer{
+    background-color:#024C68 ;
+    width: 959px;
+    height: 161px;
+    padding-top: 20px;
+}
+footer p {
+    color: white;
+    margin-top: 30px;
+    padding-left: 76px;
+    font-size: 24px;
+}
+ h1 {
+    color: orangered;
+}
+.dot{
+    color: black;
+}
